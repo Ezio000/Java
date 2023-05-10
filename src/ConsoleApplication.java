@@ -4,7 +4,7 @@ public static void main(String[] args) {
     Person person1 = new Person("p1", "t1", 2000);
     Person person2 = new Person("p2", "t2", 2001);
     Person person3 = new Person("p3", "t3", 2002);
-    Person person4 = new Person("p4", "t4", 2003;
+    Person person4 = new Person("p4", "t4", 2003);
     Person person5 = new Person("p5", "t5", 2004);
 
 }
